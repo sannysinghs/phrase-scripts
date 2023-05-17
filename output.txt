@@ -1,0 +1,2 @@
+generate
+/Users/sanny.segue/Documents/pax/pax-android/.phraseapp.yml
